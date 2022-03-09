@@ -5,7 +5,7 @@ this voice assistant understands the sentence you say (it supports Turkish langu
 
 first we write the following code in our terminal
 
-'pip install requirements.txt'
+'pip install -r requirements.txt'
 
 If you want, you can download the selenium google chrome driver (for 99.0.4844.51) or the driver suitable for your version from the following page.
 https://sites.google.com/chromium.org/driver/

@@ -1,1 +1,2 @@
-# Voice-Assistant-with-python
+# Voice-Assistant-with-Python
+Not Fully Developed Yet
